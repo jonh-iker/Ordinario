@@ -1,0 +1,22 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package objects;
+
+/**
+ *
+ * @author jonhy
+ */
+public enum Carrera {
+    ELECTRONICA,
+    DERECHO,
+    SISTEMAS,
+    PSICOLOGIA,
+    ARQUITECTURA,
+    LENGUAS_MODERNAS,
+    FISIOTERAPIA,
+    ENFERMERIA,
+    TURISMO;
+}
